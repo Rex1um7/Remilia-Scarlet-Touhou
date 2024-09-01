@@ -19,7 +19,11 @@
 		"outerColor": [145, 40,  0],
 		"innerColor": [ 10, 10, 10],
 		"uniqueName": "Scarlet Mist",
-		"uniques" : ["-[25]% Culture cost of acquiring tiles [in all cities]", "New [Military] units start with [15] Experience", "-[25]% tile improvement construction time"],
+		"uniques" : [
+			"[-25]% Culture cost of natural border growth [in all cities]", 
+			"New [Military] units start with [15] Experience [in all cities]", 
+			"[-25]% construction time for [All] improvements"
+		],
 		"cities": ["Scarlet Mansion", "Amaranth", "Gungnir", "Carnelian", "Voile", "Misty Lake", "Piros", "Sarkans", "Lavatein", "Antares",
 					"Cranberry Acres", "Alizarin", "Cardinal", "New Bucharest", "Crimson", "Sanguine", "Betelgeuze", "Maroon", "Vörös", "Arcturus",
 					"Kermes", "Carmine", "Cerise", "Aldebaran", "Scharlaken"]
