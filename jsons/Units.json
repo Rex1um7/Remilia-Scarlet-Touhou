@@ -9,6 +9,7 @@
 		"uniques": [
 			"Can build [Land] improvements on tiles", 
 			"Ignores terrain cost", 
-			"May withdraw before melee <with [50]% chance>"],
+			"May withdraw before melee <with [50]% chance>"
+		]
 	},
 ]
